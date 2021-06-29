@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning ... react,redux
 - 💬 Ask me about ... javascript nodejs
 - 📫 How to reach me: ... twitter wechat bilibili
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iy88&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iy88&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
