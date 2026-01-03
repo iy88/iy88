@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iy88&show_icons=true)
+[![iy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=iy88)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ... mysql-tools
 - 🌱 I’m currently learning ... react,redux
 - 💬 Ask me about ... javascript nodejs
